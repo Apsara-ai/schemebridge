@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SchemeSaathi AI
 
 A lightweight, responsive prototype for discovering Indian government schemes. It includes profile-based filtering, plain-language scheme summaries, document checklist prompts, and links to official sources.
@@ -27,3 +28,7 @@ Replace the remote URL with the repository URL GitHub gives you. Git may ask you
 - Scheme matches are for discovery and are not official eligibility decisions.
 - Confirm current requirements and application routes with the linked government source.
 - This prototype runs entirely in the browser and does not transmit profile answers.
+=======
+# schemebridge
+Al-Powered Government Scheme  Discovery &amp; Eligibility Assistant   ,Connecting citizens to the benefits they deserve.
+>>>>>>> 5b6faa5c8307f16ad59f8d0eefe1828eeed5cae5
